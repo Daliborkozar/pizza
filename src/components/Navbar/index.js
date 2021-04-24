@@ -5,11 +5,11 @@ const Navbar = () => {
     return (
         <>
         <Nav>
-            <NavLink to='/'>Pizza</NavLink>
+            <NavLink to='/'>Pizza Store</NavLink>
             <NavIcon>
                 <p>Menu</p>
                 <Bars />
-                <Badge>1</Badge>
+                <Badge>9</Badge>
             </NavIcon>
         </Nav>
         </>
